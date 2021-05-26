@@ -12,7 +12,7 @@
 body {
     font-family: var(--body-font);
     font-size: 17px;
-
+    text-decoration: none;
 }
 img {
     border-radius: 5px;
@@ -43,6 +43,7 @@ body,
 }
 .sidebar ul li.active > a {
     color: var(--list-item-active-link);
+
 }
 /* List items */
 li.active {
@@ -54,6 +55,7 @@ li.active > a.section-link {
 }
 .markdown-section blockquote{
     background: var(--custom-sidebar-color);
+    text-decoration: none;
 }
 strong{
     color: var(--light)

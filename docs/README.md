@@ -1,10 +1,10 @@
 # Bienvenida
 
-Hola les damos la bienvenida a Fazt Community un espacio donde se reúnen desarrolladores y diseñadores de habla hispana. Un lugar donde puedes aprender, pasarla bien y mejorar tus habilidades.
+Hola les damos la bienvenida a Stackly Code, proyectos corporativos y colaborativos internacional.
 
-## Introducción a Fazt Community Docs
+## Introducción a Stackly Code Docs
 
-Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proyectos. Podrás aprender las metodologías utilizadas en cada proyecto, las habilidades que debes tener y aprender a como colaborar en cada uno de ellos.
+Los Stackly Code Docs te ayudarán en el camino de colaborar en nuestros proyectos. Podrás aprender las metodologías utilizadas en cada proyecto, las habilidades que debes tener y aprender a como colaborar en cada uno de ellos.
 
 ## Primer Vistazo
 
@@ -34,90 +34,29 @@ Stackly Code está organizado de la siguiente forma :
 
 Administradores principales de la organización.
 
-[comment]: <> ([Fazt]&#40;https://github.com/FaztTech&#41; main administrator)
+[Fernando](https://github.com/Beor18) **CEO** Chief Executive Officer
 
-[comment]: <> ([Edixon]&#40;https://github.com/EdixonAlberto&#41; repository manager)
+[Craig](https://github.com/leave20) **CIO** Leiterin der Informationstechnologie
 
-[comment]: <> ([Tati]&#40;https://github.com/tati1206&#41; project management leader)
+### Area Leader
 
-[comment]: <> ([Craig]&#40;https://github.com/leave20&#41; project management leader)
+[William](https://github.com/Willishakespeare) **Frontend Team** React js Development
 
-### Area leaders
-
-[comment]: <> ([Juan Carlos]&#40;https://github.com/juank1791&#41; **Resource Team** graphic design specialist UI UX)
-
-[comment]: <> ([Dano]&#40;https://github.com/DanoRysJan&#41; **Methodology Team** data analysis specialist)
-
-[comment]: <> ([Yuborama]&#40;https://github.com/yuborama&#41; **Frontend Team** web application development specialist)
-
-[comment]: <> ([Fernando]&#40;https://github.com/Beor18&#41; **Backend Team** web services specialist)
-
-[comment]: <> ([Lottie]&#40;https://github.com/EnzoDiazDev&#41; **Bot Team** web services specialist)
-
-### Moderators
-
-[comment]: <> ([zephiro]&#40;https://github.com/ZephiroRB&#41; **Backend Team**)
-
-[comment]: <> ([Fede]&#40;https://github.com/Fedeya&#41; **Backend Team**)
+[Juan Carlos](https://github.com/juank1791) **Resource Team** UI/UX Designer
 
 
-[comment]: <> ([William]&#40;https://github.com/Willishakespeare&#41; **Frontend Team**)
+### Collaborators
 
-[comment]: <> ([Danicito]&#40;https://github.com/stylessh&#41; **Frontend Team**)
+[Dano](https://github.com/DanoRysJan) **Methodology Team** data analysis specialist
 
-[comment]: <> ([Erian]&#40;https://github.com/erianvc&#41; **Frontend Team**)
+[Yuborama](https://github.com/yuborama) **Frontend Team** web application development specialist
 
+[Erian](https://github.com/erianvc) **Frontend Team**
 
-[comment]: <> ([kikkelon]&#40;https://github.com/hulkike&#41; **Methodology Team** Especialist, consultant and mentor)
+# Revisa nuestra pagina web.
 
-[comment]: <> ([zD4y]&#40;https://github.com/zd4y&#41; **Bot Team**)
+> - [Stackly Code](https://stacklycode.com/)
 
-
-## Commits y Pull Requests
-
-La forma correcta de colaborar en un proyecto de git, es seguir los convenios de desarrollo:
-
-- Basado en el convenio de cerlink
-
-```bash
-feat: (Características nuevas para usuario, no característica para script de compilación)
-
-fix: (Corrección de errores para usuario, no corrección de script de compilación)
-
-docs: (Cambios en la documentación)
-
-style: (Formateo, puntos y comas que hagan falta, etc. sin cambio en código de producción)
-
-refactor: (Código de producción en refactorización)
-
-test: (Agregando pruebas de refactor, endpoints, faltantes, no cambio en código de producción)
-
-chore: (Actualización de tareas, sin cambio en código de producción)
-
-Merge: (Fusión de ramas, cambio en código de producción)
-
-release: (Creación de una nueva version en el proyecto)
-```
-
-## ¿Cómo crear un proyecto para Stackly Code?
-
-Si tienes ganas de crear un proyecto dentro de la organizacion puedes consultarlo a los siguientes encargados:
-
-[comment]: <> (> [leave20]&#40;https://github.com/leave20&#41; Leader Project Manager.)
-
-[comment]: <> (> [Tati]&#40;https://github.com/tati1206&#41; Leader Project Manager.)
-
-Ambos encargados podrán asesorarte en crear tus repositorios dentro de la organizacion.
-
-# Revisa nuestros proyectos core
-
-[comment]: <> (> - [Fazt API]&#40;https://github.com/faztcommunity/fazt-api&#41;)
-
-[comment]: <> (> - [Fazt Web Community]&#40;https://github.com/faztcommunity/fazt-oficial-web&#41;)
-
-[comment]: <> (> - [Fazt Methodology]&#40;https://github.com/faztcommunity/fazt-methodology-core&#41;)
-
-[comment]: <> (> - [Fazt Bot]&#40;https://github.com/faztcommunity/fazt-bot&#41;)
 
 # Recursos
 
@@ -125,7 +64,7 @@ Los recursos que se mostrarán en los siguientes enlaces son tanto los diseños 
 
 ## Tipos de recursos
 
-### Recursos para la comunidad
+### Proyectos colaborativos
 
 [comment]: <> (https://www.notion.so/RECURSOS-DE-LA-COMUNIDAD-0a20ab35c45f410d9cc5766265cf0f09)
 ### Recursos para los proyectos comunitarios
@@ -137,9 +76,7 @@ Los recursos que se mostrarán en los siguientes enlaces son tanto los diseños 
 
 Plataforma principal de la comunidad en Discord.
 
-[comment]: <> ([![Discord Server]&#40;./public/gg01.PNG&#41;]&#40;https://discord.gg/rg3fKr6&#41;)
-
-> **Nota:** Si eres nuevo en usar Discord , deberás **verificar** por medio de tu telefono la autenticación de tu cuenta. Esto es de mucha ayuda para evitar cuentas de dudosa procedencia.
+https://discord.gg/YsYFj5ZjbH
 
 ## Reglas
 
@@ -169,36 +106,3 @@ Plataforma principal de la comunidad en Discord.
 11. **Nickname/Apodo** Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
 ```
-
-## Roles
-
-Estos son los roles para todo publico:
-
-**Dev FullStack:** Desarrollador Fullstack
-
-**Dev Frontend:** Desarrollador Front-end
-
-**Dev Backend:** Desarrollador Back-end
-
-**Dev Mobile:** Desarrollador de aplicaciones móviles
-
-**Dev Games:** Desarrollador de videojuegos
-
-**Dev Bot** Desarrollador de bots
-
-**Taller** Estudiantes de Fazt Tech
-
-**Tester** Probadores de software
-
-## Staff
-
-Este es el cuerpo que vela por toda la comunidad:
-
-> **_Admin_**
-
-> **_Mod_**
-
-> **_Contribuitor_**
-
-**Para ser parte del staff se debe tener en cuenta el esfuerzo constante hacia la comunidad, las ganas de participar y enseñar, ser de gran ayuda hacia los demás sin pedir o esperar algo a cambio.
-Dependiendo a dichos factores mencionados se procederá por parte de la administración a evaluar a dichos usuarios para ciertos cargos.**
